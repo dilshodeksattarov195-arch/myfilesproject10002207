@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterverify",
+        "uuid": 4621458,
+        "checksum": "8umicg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
